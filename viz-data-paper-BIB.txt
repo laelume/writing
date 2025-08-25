@@ -1,0 +1,203 @@
+I. Introduction 
+
+II. A Brief History of Audio Visualization
+
+[1] J. B. J. Fourier, Théorie de la propagation de la chaleur dans les solides, Manuscrispt submitted to the Institute de France 21 Dec, 1807.  
+
+[2] J.B. J. Fourier, Théorie analytique de la chaleur. Paris: Chez Firmin Didot, Père et Fils, 1822. 
+
+[3] 1857. Scott de Martinville, É.-L. Fixation graphique de la voix. 
+
+[4] Bell, A. G. (1876). Improvement in Telegraphy. U.S. Patent No. 174,465. Filed February 14, 1876 
+
+[5] 1837 Telegraph. Cooke, W. F., & Wheatstone, C. (1837). Electric Telegraphs. UK Patent No. 7,390. 
+
+[6]  Morse, Samuel F. B. “Caveat for the American Electro-Magnetic Telegraph.” Caveat filed October 3, 1837. Volume 5, Page 112. Records of the Patent and Trademark Office, Record Group 241. National Archives at Washington, D.C. Filed October 3, 1837 
+
+[7] Edison, T. A. (1878). Improvement in Speaking-Telegraphs. U.S. Patent No. 203,016. Filed March 27, 1878. 
+
+[8] Berliner, E. (1887). Gramophone. U.S. Patent No. 372,786. Filed  May 4, 1887 
+
+[9]  loudspeaker Rice, C. W., & Kellogg, E. W. (1925). "Notes on the Development of a New Type of Hornless Loudspeaker." Transactions of the American Institute of Electrical Engineers, *44*(1), 461–480. https://doi.org/10.1109/T-AIEE.1925.5061157 
+
+[10] sound spectropraph Kopp, G. A., & Green, H. C. (1946). "Basic Aims of Visible Speech." The Journal of the Acoustical Society of America, 18*(1), 1–16. https://doi.org/10.1121/1.1916342
+
+[11] Potter, R. K., Kopp, G. A., & Green, H. C. (1947). Visible Speech. D. Van Nostrand Company. 
+
+[12] FFT Cooley, J. W., & Tukey, J. W. (1965). "An algorithm for the machine calculation of complex Fourier series." Mathematics of Computation, *19*(90), 297–301. https://doi.org/10.1090/S0025-5718-1965-0178586-1 
+
+[13] Cioffi, J. M. (1991). A Multicarrier Primer. ANSI T1E1.4 Committee Contribution, *91-157*. 
+
+[14] ANSI T1.413-1995. (1995). Network and Customer Installation Interfaces - Asymmetric Digital Subscriber Line (ADSL) Metallic Interface. American National Standards Institute. 
+
+[15] Mouly, M., & Pautet, M.-B. (1992). The GSM System for Mobile Communications. ISBN: 2-9507190-0-7. 
+
+[16] Bingham, J. A. C. (1990). Multicarrier modulation for data transmission: An idea whose time has come. IEEE Communications Magazine,28(5), 5-14. https://doi.org/10.1109/35.54342 
+
+[17] Lauterbur, P. C. (1973). Image Formation by Induced Local Interactions: Examples Employing Nuclear Magnetic Resonance. Nature, *242*(5394), 190–191. https://doi.org/10.1038/242190a0 
+
+[18] Kumar, A., Welti, D., & Ernst, R. R. (1975). NMR Fourier Zeugmatography. Journal of Magnetic Resonance (1969), 18(1), 69–83. https://doi.org/10.1016/0022-2364(75)80224-3 
+
+[19] Berger, H. (1929). Über das Elektrenkephalogramm des Menschen. Archiv für Psychiatrie und Nervenkrankheiten, *87*(1), 527–570. https://doi.org/10.1007/BF01797193 
+
+[20] Bickford, R. G., et al. (1971). The Compressed Spectral Array (CSA) – A Pictorial EEG. Proceedings of the San Diego Biomedical Symposium, 10, 365–370. 
+
+[21] reverb: Blesser, B., & Lee, F. (1971). An Audio Delay System Using Digital Technology. Journal of the Audio Engineering Society, 19(5), 393-397. 
+
+[22] Blesser, B. A., et al. (1978). Apparatus and method for time domain compression and expansion of audio signals (U.S. Patent No. 4,085,286). September 30, 1975 
+
+[23] Flanagan, J. L., & Golden, R. M. (1966). Phase Vocoder. The Bell System Technical Journal, 45(9), 1493–1509. https://doi.org/10.1002/j.1538-7305.1966.tb01706.x 
+
+[24] Hildebrand, H. J. (1997). Method and apparatus for automatic pitch correction (U.S. Patent No. 5,973,252). Filed May 22, 1997 
+
+[25] Grey, J. and Moorer, J. (1977). Perceptual evaluation of synthesized musical instrument tones. Journal of the Acoustical Society of America, 62: 454–462. https://doi.org/10.1121/1.381508 
+
+[26] 2009. Matteo Milani, An interview with James A. Moorer, pt.1, Unidentified Sound Object.  https://usoproject.blogspot.com/2009/02/interview-with-james-moorer-pt1.html
+
+[27] 2012. Soundstream: The Introduction Of Commercial Digital Recording In The United States. . Simon Barber. Journal on the Art of Record Production. ISSN: 1754-9892. 
+ https://www.arpjournal.com/asarpwp/soundstream-the-introduction-of-commercial-digital-recording-in-the-united-states/
+
+[28] 1996. Fairlight – The Whole Story. Reproduced from Audio Media Magazine, January 1996. 
+https://www.anerd.com/fairlight/fairlightstory.htm
+
+[29] Fairlight CMI History. Peter Vogel. Peter Vogel Instruments.  https://petervogelinstruments.com.au/fairlight-history/#:~:text=Posted%20on%20August%2021%2C%202019,name%20for%20the%20new%20company.
+
+[30] 1982. Commodore 64 User’s Guide. By Commodore Business Machines, Inc. Internet Archive. Added 2017-08-01. Accessed 2025-08-25.  https://archive.org/details/commodore-64-user-guide
+
+[31] File Archives. Commodore 64 related manuals. Zimmers.net. Accessed 2025-08-25.  https://www.zimmers.net/anonftp/pub/cbm/c64/manuals/index.html
+
+[31] The Early Days of Software Sequencers. Posted 20 Dec 2010. https://www.kvraudio.com/focus/the_early_days_of_software_sequencers_15670
+
+[32] Dr T: His world of electronic wizardry.Pyle, Derek. April 2017. Perfect Sound Forever. Accessed 2025-08-25. https://www.furious.com/perfect/drt.html
+
+[33] Dr. T’s Keyboard Controlled Sequencer. Badger, Mark. Mu:zines. Sound On Sound July 1987
+https://www.muzines.co.uk/articles/dr-ts-keyboard-controlled-sequencer/2473
+
+[34] 2020. Matrixsynth. Steinberg Pro16 sequencer from ‘86: Grandmother of Cubase. Posted 2020-09-03? Sept 9. Accessed 2025-08-25. https://www.matrixsynth.com/2020/09/steinberg-pro16-sequencer-from-86.html
+
+[35] Steinberg Pro-24 III User Manual. M Hanemann and Co. London.  https://www.manualslib.com/manual/1829156/Steinberg-Pro-24-Iii.html
+
+[36] 1988. Steinberg Pro24 III. Simon Trask. Article from Music Technology, July 1988. 
+https://www.muzines.co.uk/articles/steinberg-pro24-iii/1124
+
+[37] A brief history of Pro Tools, by Future Music. Published 30 May 2011. Musicradar. Accessed 2025-08-25. https://www.musicradar.com/tuition/tech/a-brief-history-of-pro-tools-452963
+
+[38] Digidesign Pro Tools. It’s Cruel To Make A Computer Work This Hard. By Paul D. Lehrman. Article from Sound On Sound, January 1992. Accessed 2025-08-25. https://www.muzines.co.uk/articles/digidesign-pro-tools/9294
+
+[39]  November 1997. Sound on Sound. Steinberg Cubase VST v3.5. Cook, Janet H.  https://web.archive.org/web/20140916001421/http://www.soundonsound.com/sos/1997_articles/nov97/cubasevst.html
+
+[40] What is VST? VST 3 Developer Portal. Steinberg Media Technologies GmbH.   https://steinbergmedia.github.io/vst3_dev_portal/pages/What+is+VST/Index.html
+
+Classification, sequences
+
+2020. Finding, visualizing, and quantifying latetnt structures across diverse animal repertoires. Sainburg. https://doi.org/10.1371/journal.pcbi.1008228 
+
+2021. Automated classification of avian vocal activity using acoustic indices in regional and heterogeneous datasets. Yip, Mahon, MacPhail, Bayne. https://doi.org/10.1111/2041-210X.13548
+
+Anatomy and physiology
+
+2008. Two-voice compexity from a single side of the syrinx in northern mockingbird vocalizations. Zollinger, Riede, Suthers. https://pmc.ncbi.nlm.nih.gov/articles/PMC2569999/ 
+
+2012. Integrative physiology of fundamental frequency control in birds. Goller, Riede. https://pmc.ncbi.nlm.nih.gov/articles/PMC3674193/
+
+2020. Unusual Avian Vocal Mechanism Facilitates Encoding of Body Size. Uribarri, Rodriguez, Tubaro, Goller, Mindlin. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.098101
+
+2009. Amplitude and frequency modulation control of sound production in a mechanical model of the avian syrinx. Elemans, Muller, Larsen, van Leeuwen. https://doi.org/10.1242/jeb.026872
+
+2010. Smooth Operator: Avoidance of Subharmonic Bifurcations through Mechanical Mechanisms Simplifies Song Motor Control in Adult Zebra Finches. Elemans, Laje, Mindlin, Goller. https://doi.org/10.1523/JNEUROSCI.1130-10.2010
+
+Buncho
+
+2024. The use of artificial songs to assess song recognition in imprinted female songbirds: a concept proposal. Makioka, Lewis, Soma. https://doi.org/10.3389/fpsyg.2024.1384794
+
+2013. Song performance and elaboration as potential indicators of male quality in Java sparrows. Kagawa, Soma. https://doi.org/10.1016/j.beproc.2013.07.012
+
+Numerical Methods
+
+2019. A method for estimation of fundamental frequency for tonal sounds inspired on bird song studies. Jarne. https://doi.org/10.1016/j.mex.2018.12.011
+
+2022. Computational bioacoustics with deep learning: a review and roadmap. Stowell. https://doi.org/10.7717/peerj.13152
+
+2022. A Review of Automated Bioacoustics and General Acoustics Classification Research. Mutanu, Gohil, Gupta, Wagio, Kotonya. https://doi.org/10.3390/s22218361
+
+2024. Improved analysis of deep bioacoustic embeddings through dimensionality reduction and interactive visualisation. Sanchez, English, Hossain, Moore. https://doi.org/10.1016/j.ecoinf.2024.102593
+
+Communications Theory 
+
+2020. Why Is Data Visualization Important? What Is Important in Data Visualization? Unwin. https://hdsr.mitpress.mit.edu/pub/zok97i7p/release/4
+
+Accessed 16/08/2025. Storytelling in UX/UI Design. Siang, Teo Yu. https://www.interaction-design.org/literature/topics/storytelling
+
+Accessed 16/08/2025. What Makes Storytelling So Effective For Learning? Boris, V. https://www.harvardbusiness.org/insight/what-makes-storytelling-so-effective-for-learning/
+
+2021. Data storytelling is not storytelling with data: A framework for storytelling in science communication and data journalism . Matei, Hunter. https://doi.org/10.1080/01972243.2021.1951415
+
+2021. Why You Need To Tell A Story With Your Data. Awartani. https://basilawartani.medium.com/why-you-should-tell-a-story-with-your-data-a99bcb908262
+
+Reichert, M. S., Enriquez, M. S., & Carlson, N. V. (2021). New dimensions for animal communication networks: space and time. Integrative and Comparative Biology, 61(3), 814-824.
+
+2014. Using narratives and storytelling to communicate science with nonexpert audiences. Dahlstrom. https://doi.org/10.1073/pnas.1320645111
+
+2021. From AI, creativity and music to IoT, HCI, musical instrument design and audio interaction: a journey in sound. Chamberlain, Hazzard, Kelly, Bodker, Kallionpaa. https://doi.org/10.1007/s00779-021-01574-9
+
+2024. The decline of the user interface. https://www.reddit.com/r/programming/comments/1d44pxj/the_decline_of_the_user_interface/
+2024. Stop Designing Your Web Application for Millions of Users When You Don't Even Have 100. https://www.reddit.com/r/programming/comments/1fkh1k7/stop_designing_your_web_application_for_millions/
+2024. Programming to an interface, not an implementation. https://medium.com/@Masoncoding/programming-to-an-interface-not-an-implementation-024d01815070
+
+2005. A comparison of audio and visual analysis of complex time-series data sets. Pauletto, Hunt. https://www.researchgate.net/publication/241164174_A_comparison_of_audio_and_visual_analysis_of_complex_time-series_data_sets
+
+2015. Visualizing Sound. Supper, Bijsterveld. Cultural shifts in perception and technology. 
+2012. The Sound Studies Reader. Sterne. Historical contexts of audio technology. 
+2019. Sounding the Limits of Media. Devine. 
+2018. The misleading myth of the spectrogram’s objectivity. Bates. Computer Music Journal. 
+2021. Perceptual evaluation of audio representations. Nielsen et al. IEEE Transactions on Multimedia. 
+
+2018. Biodiversity conservation and armed conflict: a warfare ecology perspective. Hanson. https://doi.org/10.1111/nyas.13689
+2009. From warfare to wildlife: The unexpected journey of acoustic monitoring. Hanson.  https://doi.org/10.1109/MSP.2009.932166
+"Music perception is deeply tied to the embodied nature of hearing" (Springer, 2019).
+
+"Cross-modal perception explains why we ‘feel’ bass in our bodies" (Frontiers in Psychology).
+"Sound is never just auditory—it’s a multisensory experience shaped by context" (AES Conference, 2020).
+
+Merchant et al. (2015) - "Measuring acoustic habitats" (Methods paper lamenting tool limitations)
+Sueur & Farina (2015) - "Ecoacoustics: The Ecological Investigation of Sound" (Calls for new visualization approaches)
+
+1804. I. The Bakerian Lecture. Experiments and calculations relative to physical optics. https://doi.org/10.1098/rstl.1804.0001
+
+Audacity. https://doxy.audacityteam.org/pffft_8h_source.html
+
+Further reading. 
+https://www.sciencedirect.com/topics/engineering/gabor-function
+Multiwavelets, Gabor wavelets. https://www.sciencedirect.com/topics/engineering/multiresolution-analysis
+Cramér-Rao bounds for frequency estimation and the Ziv-Zakai bounds in time-frequency analysis 
+
+Chandler, P., & Sweller, J. (1992). The split-attention effect as a factor in the design of instruction. British Journal of Educational Psychology, 62(2), 233-246. "findings from two experiments investigating the split-attention effect" "learners are often forced to split their attention between and mentally integrate disparate sources of information (e.g., text and diagrams) before the instructional material can be rendered intelligible." 
+
+1990. Sweller, J., Chandler, P., Tierney, P., & Cooper, M. Cognitive load as a factor in the structuring of technical material. Journal of Experimental Psychology: General, 119(2), 176–192. 
+
+1998 Sweller, J., van Merriënboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. Educational Psychology Review, 10(3), 251–296. 
+
+2010 Sweller, J. (2010). Element interactivity and intrinsic, extraneous, and germane cognitive load. Educational Psychology Review, 22(2), 123–138. 
+
+2011. Cognitive load theory. Sweller. https://psycnet.apa.org/doi/10.1016/B978-0-12-387691-1.00002-8
+
+Pociask, F. D., & Morrison, G. R. (2007). The Effects of Split-Attention and Redundancy on Cognitive Load (ERIC Document ED485075)  "working memory can only maintain about seven elements of information at a time" and that "demands placed on working memory that are not directly related to problem solving can hinder learning by exceeding available cognitive resources."
+
+https://www.sciencedirect.com/topics/psychology/cognitive-load-theory
+
+Working memory has limited capacity, with a maximum duration of about 20 s (Paas & Sweller, 2012), ability to hold (e.g., recall a list of digits) about seven chunks of information (Miller, 1956), and with a maximum concurrent processing limit of two to four chunks of information (Paas & Sweller, 2012; Sweller et al., 1998).  
+
+1967 / 1983. Semiologie Graphique. Bertin. 
+
+2016. Epistemological Problems of perception. https://plato.stanford.edu/entries/perception-episprob/
+
+
+Suggested reading: 
+
+[1] 1986. The Control Revolution: Technological and Economic Origins of the Information Society. Beniger, J. 
+
+[2] 2012. A Brief History of Computing. O’Regen, G. 
+
+[3] https://web.archive.org/web/20170804083227/http://nerdplusart.com/first-3d-rendered-film-from-1972-and-my-visit-to-pixar/
+
+Richard Mayer, Temporal Contiguity Principle 
